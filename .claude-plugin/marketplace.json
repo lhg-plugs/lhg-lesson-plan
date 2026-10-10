@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"小白一句话→完整教案：课程设计专家（主题澄清 / 课标对齐 / 教案生成 / 活动设计 / 确定性审计）","name":"lhg-lesson-plan","source":"./"}]}
